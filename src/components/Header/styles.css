@@ -1,0 +1,10 @@
+.navbar  {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+    background-color: #007732;
+    top: 0;
+    padding: 0.5rem 2rem; 
+    margin-bottom: 30px;
+}
