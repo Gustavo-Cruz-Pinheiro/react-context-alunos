@@ -29,7 +29,7 @@ $ cd react-context-alunos
 # Instale as dependências com
 $ npm i
 
-# Execute o arquivo comando para executar o projeto
+# Execute o comando para executar o projeto
 $ npm run dev
 
 # O seu projeto estará rodando no localhost:3000
