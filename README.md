@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-O objetivo do projeto foi praticar a criação de context com react, para tanto foi criado um site de gerenciamento de alunos.
+O objetivo do projeto foi praticar a criação de contexts com react, para tanto foi criado um site de gerenciamento de alunos.
 
 ![Demonstração da Aplicação](./demo.png)
 
